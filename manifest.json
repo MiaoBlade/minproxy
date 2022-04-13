@@ -1,0 +1,33 @@
+{
+    "manifest_version": 3,
+    "name": "MinProxy",
+    "description": "__MSG_appDesc__",
+    "version": "1.0.0",
+    "default_locale": "zh_CN",
+    "icons": {
+        "128": "images/on.png"
+    },
+    "permissions": [
+        "proxy",
+        "storage"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "options_page": "options.html",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "images/off.png"
+    },
+    "minimum_chrome_version": "38.0.0",
+    "web_accessible_resources": [
+        {
+            "resources": [
+                "images/*"
+            ],
+            "matches": [
+                "<all_urls>"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "appDesc" : {
+        "message" : "代理设置"
+    },
+    "option_title" : {
+        "message" : "代理设置"
+    },
+    "option_header_name" : {
+        "message" : "名称"
+    },
+    "option_header_host" : {
+        "message" : "地址"
+    },
+    "option_header_port" : {
+        "message" : "端口"
+    },
+    "popup_name_direct" : {
+        "message" : "直连"
+    },
+    "popup_name_system" : {
+        "message" : "系统"
+    }
+
+}
+

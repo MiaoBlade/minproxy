@@ -1,0 +1,23 @@
+{
+    "appDesc" : {
+        "message" : "Proxy Tool"
+    },
+    "option_title" : {
+        "message" : "Proxy setting"
+    },
+    "option_header_name" : {
+        "message" : "Name"
+    },
+    "option_header_host" : {
+        "message" : "Address"
+    },
+    "option_header_port" : {
+        "message" : "Port"
+    },
+    "popup_name_direct" : {
+        "message" : "Direct"
+    },
+    "popup_name_system" : {
+        "message" : "System"
+    }
+}
